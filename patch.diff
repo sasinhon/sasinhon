@@ -1,8 +1,24 @@
+From 953c1f58fcd3ad7e1aeb0d3ae7a0706a0ebea780 Mon Sep 17 00:00:00 2001
+From: "hb6021\\user" <sasinhon@gmail.com>
+Date: Wed, 16 Nov 2016 10:57:05 +0900
+Subject: [PATCH] =?UTF-8?q?2=EB=B2=88=EC=A7=B8=20=EC=88=98=EC=A0=95?=
+ =?UTF-8?q?=EC=9A=94?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+---
+ ex01.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
 diff --git a/ex01.txt b/ex01.txt
-index 0d77087..9fbc8d3 100644
+index 9fbc8d3..7645790 100644
 --- a/ex01.txt
 +++ b/ex01.txt
-@@ -1 +1 @@
--<h1> �޷� </ht>
-\ No newline at end of file
-+한글 잘 나오나요?
+@@ -1 +1,2 @@
+-한글 잘 나오나요?
++﻿메에롱
++
+-- 
+2.8.1.windows.1
+
