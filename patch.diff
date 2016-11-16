@@ -1,0 +1,8 @@
+diff --git a/ex01.txt b/ex01.txt
+index 0d77087..9fbc8d3 100644
+--- a/ex01.txt
++++ b/ex01.txt
+@@ -1 +1 @@
+-<h1> �޷� </ht>
+\ No newline at end of file
++한글 잘 나오나요?
